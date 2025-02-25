@@ -1,7 +1,10 @@
 $opensans: "Open Sans", sans-serif;
 
 :root {
-    --button-color: rgb(0, 134, 138);
+    --color-dark-green: rgb(0, 134, 138);
+    --color-light-green: #4FBFA5;
+    --white-color: #fff;
+    --black-color: #000;
     --font-size-heading: 21px;
     --font-size-list: 14px;
     --font-weight-heading: 700;
@@ -12,5 +15,7 @@ $opensans: "Open Sans", sans-serif;
     --line-height-list: line-height: 250%;
     --row-gap-list: 182px;
     --row-gap-list-and-contact: 125px;
+
+    --footer-border-color: rgb(196, 196, 196);
 
 }
